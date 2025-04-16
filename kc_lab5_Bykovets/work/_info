@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera(13.1)\13.1\modelsim_ase\win32aloem
+vdmx18
+!i10b 1
+!s100 UReClA>5^5WX<z2boY>z?2
+IZPTA8FmGeZkOgSiFXEj<c0
+Z1 VcA1H^HflX0TbGKa;gQ=791
+Z2 dD:\altera(13.1)\13.1\kc_lab5_Bykovets
+w1744708722
+Z3 8D:/altera(13.1)/13.1/kc_lab5_Bykovets/DMX(1-8)_Bykovets.v
+Z4 FD:/altera(13.1)/13.1/kc_lab5_Bykovets/DMX(1-8)_Bykovets.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1744708741.329000
+!s107 D:/altera(13.1)/13.1/kc_lab5_Bykovets/DMX(1-8)_Bykovets.v|
+Z6 !s90 -reportprogress|300|-work|work|D:/altera(13.1)/13.1/kc_lab5_Bykovets/DMX(1-8)_Bykovets.v|
+!s101 -O0
+Z7 o-work work -O0
